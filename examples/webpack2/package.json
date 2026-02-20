@@ -22,7 +22,7 @@
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "semantic-ui-react": "^0.74.2",
-    "webpack": "^2.7.0"
+    "webpack": "^5.0.0"
   },
   "devDependencies": {
     "webpack-bundle-analyzer": "^2.8.2"
